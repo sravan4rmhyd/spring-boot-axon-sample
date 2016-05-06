@@ -6,3 +6,4 @@ todo-application/.settings
 todo-application/.springBeans
 todo-application/data
 /target/
+/data/
