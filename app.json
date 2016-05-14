@@ -1,0 +1,7 @@
+{
+  "name": "Spring Boot Aaxon Demo",
+  "description": "This is a small demo application for Spring Boot Aaxon application on Heroku.",
+  "repository": "https://github.com/sravan4rmhyd/spring-boot-axon-sample",
+  "image": "heroku/java",
+  "addons": [ "heroku-postgresql" ]
+}
